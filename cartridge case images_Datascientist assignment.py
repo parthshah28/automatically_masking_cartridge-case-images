@@ -109,7 +109,7 @@ from transformers import pipeline
 generator = pipeline("mask-generation", model="facebook/sam-vit-huge", device=0)
 
 # Load the image
-img_url = "unnamed.png" #insert image path here
+img_url = "cartridge_case.png" #insert image path here
 raw_image = Image.open(img_url).convert("RGB")
 image= cv2.imread(img_url)
 image.shape
