@@ -62,4 +62,4 @@ The SAM-ViT model is a Spatially Adaptive Multi-Resolution Vision Transformer de
 This project is specifically designed for forensic analysis of cartridge case images. It assists forensic analysts in identifying and analyzing critical features such as breech-face impressions, aperture shears, firing pin impressions, and firing pin drags.
 
 ## Analysis
-The code provides a detailed analysis of each segmented region, including area, bounding box coordinates, and predicted IOU scores. Analysis Report()
+The code provides a detailed analysis of each segmented region, including area, bounding box coordinates, and predicted IOU scores. [Analysis Report](https://github.com/parthshah28/automatically_masking_cartridge-case-images/blob/main/Docs/Analysis%20Report_%20Automatically%20Masking%20Cartridge%20Case%20Images%20with%20SAM-ViT.pdf)
