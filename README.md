@@ -1,0 +1,1 @@
+# automatically_masking_cartridge-case-images
