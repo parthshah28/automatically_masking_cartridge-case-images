@@ -49,7 +49,7 @@ The code performs image segmentation using the SAM-ViT model to identify specifi
 To perform image segmentation and visualize the results, run the main script:
 
 ```bash
- python image_segmentation.py
+ python cartridge case images_Datascientist assignment.py
 ```
 
 ## Code Overview
